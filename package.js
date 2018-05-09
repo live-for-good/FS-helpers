@@ -1,12 +1,8 @@
 Package.describe({
-  name: 'origenstudio:files',
+  name: 'origenstudio:files-helpers',
   version: '0.0.1',
-  // Brief, one-line summary of the package.
-  summary: 'It provides helpers for validating and manupulating files and move them to third parties',
-  // URL to the Git repository containing the source code for this package.
+  summary: 'Provides helpers for validating and manipulating files and move them to third parties',
   git: 'https://github.com/OrigenStudio/FS-helpers',
-  // By default, Meteor will default to using README.md for documentation.
-  // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
 });
 
