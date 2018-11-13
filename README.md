@@ -9,4 +9,3 @@
 ## Roadmap
 
 - [ ] Move package to NPM
-- [ ] Move from Knox to aws-sdk for S3 interfacing
