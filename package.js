@@ -1,6 +1,6 @@
 Package.describe({
   name: 'origenstudio:files-helpers',
-  version: '1.0.0-alpha.1',
+  version: '1.0.0-alpha.2',
   summary: 'Provides helpers for validating and manipulating files and move them to third parties',
   git: 'https://github.com/OrigenStudio/FS-helpers',
   documentation: 'README.md'
